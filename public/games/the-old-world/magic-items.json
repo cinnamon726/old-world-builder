@@ -2,6 +2,7 @@
   "general": [
     {
       "name_de": "Ogerklinge",
+      "name_cn": "食人魔之刃",
       "name_en": "Ogre Blade",
       "name_fr": "Lame Ogre",
       "name_it": "Spada dell'Ogre",
@@ -11,6 +12,7 @@
     },
     {
       "name_de": "Schlachtenklinge",
+      "name_cn": "战争之剑",
       "name_en": "Sword of Battle",
       "name_fr": "Epée de Bataille",
       "name_it": "Spada della Battaglia",
@@ -20,6 +22,7 @@
     },
     {
       "name_de": "Duellklingen",
+      "name_cn": "决斗者利刃",
       "name_en": "Duellist's Blades",
       "name_fr": "Lames d'Escrimeur",
       "name_it": "Lame del Duellante",
@@ -29,6 +32,7 @@
     },
     {
       "name_de": "Schwert des Drachentöters",
+      "name_cn": "屠龙宝剑",
       "name_en": "Dragon Slaying Sword",
       "name_fr": "Epée tueuse de Dragon",
       "name_it": "Spada Ammazzadraghi",
@@ -38,6 +42,7 @@
     },
     {
       "name_de": "Henkersbeil",
+      "name_cn": "刽子手巨斧",
       "name_en": "Headsman's Axe",
       "name_fr": "Hache de Bourreau",
       "name_it": "Ascia del Boia",
@@ -47,6 +52,7 @@
     },
     {
       "name_de": "Magiefresserbeil",
+      "name_cn": "吞法斧",
       "name_en": "Spelleater Axe",
       "name_fr": "Hache Mange-sorts",
       "name_it": "Ascia di Dispersione",
@@ -56,6 +62,7 @@
     },
     {
       "name_de": "Riesenklinge",
+      "name_cn": "巨剑",
       "name_en": "Giant Blade",
       "name_fr": "Lame de Géant",
       "name_it": "Lama Gigante",
@@ -65,6 +72,7 @@
     },
     {
       "name_de": "Geschwinde Klinge",
+      "name_cn": "迅捷剑",
       "name_en": "Sword of Swiftness",
       "name_fr": "Epée de Vivacité",
       "name_it": "Spada della Rapidità",
@@ -74,6 +82,7 @@
     },
     {
       "name_de": "Berserkerklinge",
+      "name_cn": "狂战士锋刃",
       "name_en": "Berserker Blade",
       "name_fr": "Lame Berserk",
       "name_it": "Lama del Berserker",
@@ -83,6 +92,7 @@
     },
     {
       "name_de": "Schwert der Macht*",
+      "name_cn": "力量之剑*",
       "name_en": "Sword of Might*",
       "name_fr": "Epée de Puissance*",
       "name_it": "Spada della Potenza*",
@@ -93,6 +103,7 @@
     },
     {
       "name_de": "Reißende Klinge",
+      "name_cn": "刺汀之刃",
       "name_en": "Biting Blade",
       "name_fr": "Lame de Morsure",
       "name_it": "Lama Lacerante",
@@ -102,6 +113,7 @@
     },
     {
       "name_de": "Behende Klinge*",
+      "name_cn": "打击之剑*",
       "name_en": "Sword of Striking*",
       "name_fr": "Epée de Frappe*",
       "name_it": "Spada per Colpire*",
@@ -112,6 +124,7 @@
     },
     {
       "name_de": "Brennende Klinge*",
+      "name_cn": "烈焰之刃*",
       "name_en": "Burning Blade*",
       "name_fr": "Lame Ardente*",
       "name_it": "Lama Infuocata*",
@@ -122,6 +135,7 @@
     },
     {
       "name_de": "Rüstung des Schicksals",
+      "name_cn": "天命护甲",
       "name_en": "Armour of Destiny",
       "name_fr": "Armure du Destin",
       "name_it": "Armatura Del Destino",
@@ -131,6 +145,7 @@
     },
     {
       "name_de": "Schimmerhelm",
+      "name_cn": "眩目头盔",
       "name_en": "Bedazzling Helm",
       "name_fr": "Heaume du Trompeur",
       "name_it": "Elmo Scintillante",
@@ -140,6 +155,7 @@
     },
     {
       "name_de": "Silberstahlrüstungl",
+      "name_cn": "银钢甲",
       "name_en": "Armour of Silvered Steel",
       "name_fr": "Armure de Fer-Argent",
       "name_it": "Armatura D'Acciaio Argentato",
@@ -149,6 +165,7 @@
     },
     {
       "name_de": "Glitzernde Schuppenrüstung",
+      "name_cn": "闪耀鳞甲",
       "name_en": "Glittering Scales",
       "name_fr": "Ecailles Etincellantes",
       "name_it": "Scaglie Luccicanti",
@@ -158,6 +175,7 @@
     },
     {
       "name_de": "Schild des Wahren Kriegerse",
+      "name_cn": "真正勇者之盾",
       "name_en": "Shield of the Warrior True",
       "name_fr": "Bouclier du Guerrier Véritable",
       "name_it": "Lo Scudo del Vero Guerriero",
@@ -167,6 +185,7 @@
     },
     {
       "name_de": "Zauberspruchschild*",
+      "name_cn": "法术盾*",
       "name_en": "Spellshield*",
       "name_fr": "Bouclier d'Anti-Magie*",
       "name_it": "Scudo di Protezione*",
@@ -177,6 +196,7 @@
     },
     {
       "name_de": "Meteoreisenrüstung",
+      "name_cn": "陨铁盔",
       "name_en": "Armour of Meteoric Iron",
       "name_fr": "Armure de Fer Météorique",
       "name_it": "Armatura Di Ferro Meteoritico",
@@ -186,6 +206,7 @@
     },
     {
       "name_de": "Verzauberter Schild*",
+      "name_cn": "强化盾*",
       "name_en": "Enchanted Shield*",
       "name_fr": "Bouclier Enchanté*",
       "name_it": "Scudo Incantato*",
@@ -196,6 +217,7 @@
     },
     {
       "name_de": "Glücksbringender Schild*",
+      "name_cn": "迷惑之牌*",
       "name_en": "Charmed Shield*",
       "name_fr": "Bouclier Ensorcelé*",
       "name_it": "Scudo Fortunato*",
@@ -206,6 +228,7 @@
     },
     {
       "name_de": "Dämmerstein",
+      "name_cn": "黎明石",
       "name_en": "Dawnstone",
       "name_fr": "Pierre de l'Aube",
       "name_it": "Pietra Dell'Alba",
@@ -215,6 +238,7 @@
     },
     {
       "name_de": "Talisman des Schutzes",
+      "name_cn": "防护护肤",
       "name_en": "Talisman of Protection",
       "name_fr": "Talisman de Protection",
       "name_it": "Talismano Di Protezione",
@@ -224,6 +248,7 @@
     },
     {
       "name_de": "Münze des Zahlmeisters*",
+      "name_cn": "售货员的硬币*",
       "name_en": "Paymaster's Coin*",
       "name_fr": "Pièce du Trésorier*",
       "name_it": "Moneta del Corruttore*",
@@ -234,6 +259,7 @@
     },
     {
       "name_de": "Großer Obsidiane*",
+      "name_cn": "黑曜石磁石*",
       "name_en": "Obsidian Lodestone*",
       "name_fr": "Magnétite d'Obsidienne*",
       "name_it": "Ninnolo D'Ossidiana*",
@@ -244,6 +270,7 @@
     },
     {
       "name_de": "Glückstein*",
+      "name_cn": "幸运石*",
       "name_en": "Luckstone*",
       "name_fr": "Pierre de Chance*",
       "name_it": "Pietra Della Fortuna*",
@@ -254,6 +281,7 @@
     },
     {
       "name_de": "Banner der Eisernen Entschlossenheit",
+      "name_cn": "铁纪旗*",
       "name_en": "Banner of Iron Resolve",
       "name_fr": "Bannière de Détermination",
       "name_it": "Stendardo Della Volontà Di Ferro",
@@ -263,6 +291,7 @@
     },
     {
       "name_de": "Klingenstandarte",
+      "name_cn": "剃刀战旗",
       "name_en": "Razor Standard",
       "name_fr": "Etendard Tranchant",
       "name_it": "Stendardo Affilato",
@@ -272,6 +301,7 @@
     },
     {
       "name_de": "Banner der Rasereir",
+      "name_cn": "暴走战旗",
       "name_en": "Rampaging Banner",
       "name_fr": "Bannière du Carnage",
       "name_it": "Stendardo Furioso",
@@ -281,6 +311,7 @@
     },
     {
       "name_de": "Flammenstandarte",
+      "name_cn": "火焰旗",
       "name_en": "The Blazing Banner",
       "name_fr": "Bannière Incandescente",
       "name_it": "Stendardo Fiammeggiante",
@@ -290,6 +321,7 @@
     },
     {
       "name_de": "Kriegsbanner",
+      "name_cn": "战旗",
       "name_en": "War Banner",
       "name_fr": "Bannière de Guerre",
       "name_it": "Stendardo da Guerra",
@@ -299,6 +331,7 @@
     },
     {
       "name_de": "Zauberhut",
+      "name_cn": "巫师帽",
       "name_en": "Wizarding Hat",
       "name_fr": "Chapeau de Magicien",
       "name_it": "Cappello Magico",
@@ -308,6 +341,7 @@
     },
     {
       "name_de": "Fliegender Teppich",
+      "name_cn": "飞毯",
       "name_en": "Flying Carpet",
       "name_fr": "Tapis Volant",
       "name_it": "Tappeto Volante",
@@ -317,6 +351,7 @@
     },
     {
       "name_de": "Heiltrank*",
+      "name_cn": "治疗药剂*",
       "name_en": "Healing Potion*",
       "name_fr": "Potion de Soin*",
       "name_it": "Pozione Curativa*",
@@ -327,6 +362,7 @@
     },
     {
       "name_de": "Rubinring der Zerstörung",
+      "name_cn": "毁灭之红宝石戒",
       "name_en": "Ruby Ring of Ruin",
       "name_fr": "Anneau de Rubis de Ruine",
       "name_it": "Anello Di Rubino Della Rovina",
@@ -336,6 +372,7 @@
     },
     {
       "name_de": "Stärketrank*",
+      "name_cn": "力量药剂*",
       "name_en": "Potion of Strength*",
       "name_fr": "Potion de Force*",
       "name_it": "Pozione Della Forza*",
@@ -346,6 +383,7 @@
     },
     {
       "name_de": "Widerstandstrank*",
+      "name_cn": "坚韧药剂*",
       "name_en": "Potion of Toughness*",
       "name_fr": "Potion d'Endurance*",
       "name_it": "Pozione Della Resistenza*",
@@ -356,6 +394,7 @@
     },
     {
       "name_de": "Trank der Schnelligkeit*",
+      "name_cn": "速度药剂*",
       "name_en": "Potion of Speed*",
       "name_fr": "Potion de Célérité*",
       "name_it": "Pozione Della Velocità*",
@@ -366,6 +405,7 @@
     },
     {
       "name_de": "Trank der Tollkühnheit*",
+      "name_cn": "鲁莽药剂*",
       "name_en": "Potion of Foolhardiness*",
       "name_fr": "Potion d'Impétuosité*",
       "name_it": "Pozione Della Temerarietà*",
@@ -376,6 +416,7 @@
     },
     {
       "name_de": "Schriftrolle der Rückkopplung",
+      "name_cn": "反馈卷轴",
       "name_en": "Feedback Scroll",
       "name_fr": "Parchemin de Rebond",
       "name_it": "Pergamena del Contraccolpo",
@@ -385,6 +426,7 @@
     },
     {
       "name_de": "Schriftrolle der Verwandlung*",
+      "name_cn": "变形卷轴*",
       "name_en": "Scroll of Transmogrification*",
       "name_fr": "Parchemin de Transmutation*",
       "name_it": "Pergamena della Trasmutazione*",
@@ -395,6 +437,7 @@
     },
     {
       "name_de": "Pechkohlen-Zauberstab",
+      "name_cn": "喷射魔杖",
       "name_en": "Wand of Jet",
       "name_fr": "Baguette de Jais",
       "name_it": "Bacchetta di Giada",
@@ -404,6 +447,7 @@
     },
     {
       "name_de": "Gelehrsamer Homunkulus",
+      "name_cn": "法系仆从",
       "name_en": "Lore Familiar",
       "name_fr": "Familier de Savoir",
       "name_it": "Famiglio del Sapere",
@@ -413,6 +457,7 @@
     },
     {
       "name_de": "Energiespruchrolle*",
+      "name_cn": "能量卷轴*",
       "name_en": "Power Scroll*",
       "name_fr": "Parchemin de Pouvoir*",
       "name_it": "Pergamena del Potere*",
@@ -423,6 +468,7 @@
     },
     {
       "name_de": "Magiebannende Spruchrolle*",
+      "name_cn": "破法卷轴*",
       "name_en": "Dispel Scroll*",
       "name_fr": "Parchemin de Dissipation*",
       "name_it": "Pergamena di Dispersione*",
@@ -433,6 +479,7 @@
     },
     {
       "name_de": "Arkaner Homunkulusr",
+      "name_cn": "神秘仆从",
       "name_en": "Arcane Familiar",
       "name_fr": "Familier des Arcanes",
       "name_it": "Famiglio Arcano",
@@ -442,6 +489,7 @@
     },
     {
       "name_de": "Erdener Stab",
+      "name_cn": "接地杖",
       "name_en": "Earthing Rod",
       "name_fr": "Bâton Catalyseur",
       "name_it": "Asta della Messa a Terra",
